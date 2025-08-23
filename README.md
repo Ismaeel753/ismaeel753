@@ -5,8 +5,8 @@
 🔧 Skills: Python, Java, PHP, HTML, CSS, JavaScript, MySQL  
 
 ## 🚀 Projects
-
+- [Customer_Management_App] https://github.com/Ismaeel753/Customer_Management_App.git
 
 ## 📫 Contact
-- [Email](ishchaudry753@gmail.com)
+- [Email] ishchaudry753@gmail.com
 - [LinkedIn]
