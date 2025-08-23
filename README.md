@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# I'm Ismaeel 👋
+# Hi, I'm Ismaeel 👋
 
 💻 Computer Programming student at Georgian College  
 🌱 Interested in Web Development, Databases & Automation  
