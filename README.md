@@ -6,7 +6,8 @@
 
 ## 🚀 Projects
 - [Customer_Management_App] https://github.com/Ismaeel753/Customer_Management_App.git
+- [Demo_Website] https://github.com/Ismaeel753/Demo_Website.git
 
 ## 📫 Contact
 - [Email] ishchaudry753@gmail.com
-- [LinkedIn]
+- [LinkedIn] www.linkedin.com/in/ismaeelchaudry
