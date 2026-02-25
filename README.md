@@ -1,25 +1,21 @@
-# Hi, I’m Ismaeel 👋
+Hi, I'm Ismaeel 👋  
 
-🎯 Junior QA Tester with a background in Computer Programming  
-🔍 Interested in manual testing, bug reporting, and software quality  
-🎮 Passionate about both software and game testing  
+Computer Programming student with a background in cybersecurity and networking.  
+I enjoy building software applications using Java and Python, and I'm especially interested in systems, networking, and automation.
 
-## Skills
-- Manual Testing
-- Test Case Design
-- Bug Reporting & Documentation
-- Web Testing (HTML, CSS, JavaScript)
-- Basic SQL & Databases
+💻 Currently learning:
+- Object-Oriented Programming (Java)
+- Software Development & Testing
+- Database Design (SQL)
+- Linux systems and networking fundamentals
 
-## Tools
-- Git & GitHub
-- Browser DevTools
-- Microsoft Excel
+🔍 Interests:
+- Network simulation & systems programming
+- Automation scripting
+- Software testing & debugging
+- Secure application development
 
-## What I’m working on
-- Building QA test cases for web applications
-- Practicing bug reporting and issue reproduction
-- Learning QA tools and workflows
+I'm actively looking for co-op opportunities where I can contribute, learn, and grow in a fast-paced technical environment.
 
 ## 🚀 Projects
 - [Customer_Management_App] https://github.com/Ismaeel753/Customer_Management_App.git
